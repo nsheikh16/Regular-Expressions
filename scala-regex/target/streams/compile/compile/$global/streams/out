@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-regex/src/main/scala/Main.scala:11:168: unclosed multi-line string literal[0m
+[0m[[0m[31merror[0m] [0m[0m  def date: Regex ="""\d{4}-(((0[13578]|1[02])-(0\d|[12]\d|3[01]))|((0[469]|11)-(0\d|[12]\d|30))|(02-(0\d|1\d|2[0-8])))|(\d{2}(([02468][048])|([13579][26]))-(02)-(29))""".r[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                                                                                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-regex/src/main/scala/Main.scala:11:33: ')' expected but '[' found.[0m
+[0m[[0m[31merror[0m] [0m[0m  def date: Regex ="""\d{4}-(((0[13578]|1[02])-(0\d|[12]\d|3[01]))|((0[469]|11)-(0\d|[12]\d|30))|(02-(0\d|1\d|2[0-8])))|(\d{2}(([02468][048])|([13579][26]))-(02)-(29))""".r[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/student/scala-regex/src/main/scala/Main.scala:14:2: ')' expected but eof found.[0m
+[0m[[0m[31merror[0m] [0m[0m}[0m
+[0m[[0m[31merror[0m] [0m[0m ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
